@@ -1,0 +1,17 @@
+streamlit==1.36.0
+pandas==2.2.2
+pafy==0.5.5
+plotly==5.23.0
+pymysql==1.1.1
+streamlit-tags==1.2.8
+Pillow==10.4.0
+youtube-dl==2021.12.17
+nltk==3.9.1
+spacy==3.8.2
+pdfminer.six==20240706
+pyresparser @ git+https://github.com/OmkarPathak/pyresparser.git
+scikit-learn==1.5.1
+numpy==1.26.4
+tika==2.6.0
+docx2txt==0.8
+dateparser==1.2.0
